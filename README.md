@@ -221,7 +221,7 @@
 
 ### 35. Blue Point Api서비스
 >Blud Point Api서비스 개발<br>
->개발 기간: 2022.03 ~ 2022.02<br>
+>개발 기간: 2022.02 ~ 2022.03 <br>
 >고객사 : 지니웍스<br>
 >기술 스택 : Spring Boot, OAuth2, MySql
 
