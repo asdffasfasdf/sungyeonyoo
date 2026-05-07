@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/render?type=waving&color=007396&height=200&section=header&text=YOO%20SUNG%20YEON&fontSize=70&animation=fadeIn&fontAlignY=38" alt="header" />
   <h3>베테랑 백엔드 엔지니어 (고급) | Java & E-commerce Specialist</h3>
-  <p><b>"20년 경력의 안정적인 아키텍처 설계 및 대규모 이커머스/금융/글로벌 플랫폼 전문가"</b></p>
+  <p><b>"20년 경력의 안정적인 아키텍처 설계 및 대규모 플랫폼 전문가"</b></p>
 </div>
 
 <hr />
