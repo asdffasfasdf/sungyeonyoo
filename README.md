@@ -3,7 +3,13 @@
   <h3>베테랑 백엔드 엔지니어 (고급) | Java & Spring Specialist</h3>
   <p><b>"20년 경력의 안정적인 아키텍처 설계 및 대규모 시스템 고도화 전문가"</b></p>
 </div>
-
+ <div>
+      <li>All</li>
+      <li>Backend</li>
+      <li>Full-Stack</li>
+      <li>API<</li>
+      <li>Global</li>
+  </div>
 <hr />
 
 <h2>🛠 Technical Expertise</h2>
