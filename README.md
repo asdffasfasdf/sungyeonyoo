@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=007396&height=200&section=header&text=YOO%20SUNG%20YEON&fontSize=70&animation=fadeIn&fontAlignY=38" alt="header" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=007396&height=200&section=header&text=YOO%20SUNG%20YEON&fontSize=70&animation=fadeIn&fontAlignY=38" />
 </div>
+
 <div align="center">
   <h3>✨ 20년 경력의 베테랑 백엔드 엔지니어 | Java Specialist</h3>
   <p>대규모 시스템 고도화 및 글로벌 프로젝트 수행 전문가</p>
