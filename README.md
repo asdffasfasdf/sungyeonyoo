@@ -1,5 +1,5 @@
 <div align="center">
-![header](https://capsule-render.vercel.app/render?type=waving&color=007396&height=200&section=header&text=YOO%20SUNG%20YEON&fontSize=70&animation=fadeIn&fontAlignY=38)
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=007396&height=200&section=header&text=YOO%20SUNG%20YEON&fontSize=70&animation=fadeIn&fontAlignY=38" alt="header" />
 </div>
 <div align="center">
   <h3>✨ 20년 경력의 베테랑 백엔드 엔지니어 | Java Specialist</h3>
