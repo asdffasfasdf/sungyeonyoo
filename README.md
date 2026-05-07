@@ -8,9 +8,6 @@
 
 <h2>🛠 Technical Expertise</h2>
 <table>
-  <tr>
-    <td><b>• Backend  /  <b>• Full-Stack  / <b>• API
-  <tr>
     <td width="20%" align="center"><b>Backend</b></td>
     <td>
       <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white">
